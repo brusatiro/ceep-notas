@@ -1,4 +1,30 @@
-# Getting Started with Create React App
+# Ceep
+
+📝 Sobre: Aplicação de notas criada no curso de React da Alura, possui as funcionalidades de criar uma nota com título e texto e mostrá-las na tela ao lado.
+
+📚 Aprendizados: 
+<ul>
+  <li>Como podemos criar class components;</li>
+  <li>Entendendo como o JSX renderiza objetos;</li>
+  <li>Hierarquia entre componentes (Pai/filhos);</li>
+  <li>Componentes podem ter filhos que são componentes;</li>
+  <li>Como integrar o Javascript no meio do seu JSX;</li>
+  <li>Como integrar CSS dentro da sua aplicação React;</li>
+  <li>Diferenças do class e className;</li>
+  <li>Propriedade "key" dos componentes;</li>
+  <li>Padrão de nomenclatura do CSS;</li>
+  <li>Tratando o conflito de nomes;</li>
+  <li>Organização do projeto;</li>
+  <li>Como o this do JS é dinâmico e como lidar com isso;</li>
+  <li>Associando referências através do bind;</li>
+  <li>Passando propriedades para elementos filhos;</li>
+  <li>Fluxo de atualização do sistema</li>
+  <li>Para que serve o state;</li>
+  <li>Como atribuir o state de maneira segura;</li>
+  <li>Atualizando a visualização da tela dinamicamente;</li>
+</ul>
+
+## Development server
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
